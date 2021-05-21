@@ -1,0 +1,1 @@
+This is a website intended solely for the purposes of converting Farenheit to Celsius and vice versa
